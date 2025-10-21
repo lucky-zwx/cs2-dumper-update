@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-17 03:46:47.120635900 UTC
+// 2025-10-21 10:33:43.759047 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: vphysics2.dll
