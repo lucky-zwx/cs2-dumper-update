@@ -19308,13 +19308,6 @@
         },
         "type": "uint8"
       },
-      "J__o__": {
-        "alignment": 64,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
       "LatchDirtyPermission_t": {
         "alignment": 4,
         "members": {
@@ -20268,20 +20261,6 @@
           "WORLDTEXT_VERTICAL_ALIGN_TOP": 0
         },
         "type": "uint32"
-      },
-      "_G____": {
-        "alignment": 144,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "_H____": {
-        "alignment": 120,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
       },
       "attributeprovidertypes_t": {
         "alignment": 4,
